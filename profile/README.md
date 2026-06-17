@@ -9,14 +9,11 @@ We build tools to audit and improve the **legal compliance of large language mod
 3. **Minimal-cause Explainer** for actionable, legally meaningful audit guidance.
 4. **Causal Intervention Component.** A real-time guardrail that mitigates detected compliance issues during deployment.
 
-## Repositories
-
-📊 **[compliance-audit-benchmark](https://github.com/xai-privacy/compliance-audit-benchmark)**: Data, scripts, and artifacts of CAB. MIT licensed.
-
 ## Team
 
 * Prof. Sebastian Zimmeck, Wesleyan University, [Privacy Tech Lab](https://privacytechlab.org)
 * Prof. Baishakhi Ray, Columbia University
 * Prof. Pooyan Jamshidi, University of South Carolina
+* Dr. Suphannee Sivakor, Bloomberg
 
 Contact: [sebastian@privacytechlab.org](mailto:sebastian@privacytechlab.org)
